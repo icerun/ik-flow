@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/flow-admin-rest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flow-admin-rest/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flow-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flow-api-rest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flow-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flow-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flow-dubbo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flow-extension/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flow-form/flow-form-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flow-form/flow-form-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flow-form/flow-form-rest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flow-form/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flow-form/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flow-front-rest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flow-log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flow-parent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flow-parent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flow-springcloud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flow-tools/src/main/java" charset="UTF-8" />
+  </component>
+</project>
